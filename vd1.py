@@ -309,3 +309,4 @@ draw_3d_button.grid(row=2, column=0, pady=10)
 
 # Khởi động ứng dụng
 root.mainloop()
+# Trinh buoi
